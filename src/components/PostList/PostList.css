@@ -1,0 +1,19 @@
+.postlist-box {
+  width: 800px;
+  /* background-color: #66666625; */
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.post {
+  background-color: #fafafa;
+  padding-top: 15px;
+  width: 750px;
+  padding-left: 15px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.comments-box {
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+}

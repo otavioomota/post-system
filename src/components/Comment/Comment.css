@@ -1,0 +1,23 @@
+.comment-box {
+  margin-top: 30px;
+  /* margin-bottom: 30px; */
+  display: flex;
+}
+
+.comment {
+  background-color: #66666625;
+  border-radius: 20px;
+
+  margin-left: 15px;
+  width: 600px;
+  max-width: 600px;
+
+  word-break: break-all;
+}
+
+.comment strong {
+  padding-right: 7px;
+}
+.comment p {
+  padding: 5px;
+}
